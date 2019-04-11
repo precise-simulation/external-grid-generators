@@ -26,7 +26,7 @@ official Gmsh repository.
   [GNU gcc](https://gcc.gnu.org/) v6.4.0 with the following
   compilation flags
 
-        gcc -O -static -static-libgcc -s -o triangle_lnx triangle.c -lm
+        gcc -O -static -static-libgcc -o triangle_lnx triangle.c -lm
 
 - Mac OSX (High-Sierra v10.13.6) binary compiled with
   [clang](https://clang.llvm.org/) v10.0.0 with the following
