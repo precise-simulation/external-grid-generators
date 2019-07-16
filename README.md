@@ -9,7 +9,7 @@ finite element simulation software, and optionally with the integrated
 [FEniCS](https://fenicsproject.org) solver extensions.
 
 
-[Gmsh](http://gmsh.info/) mesh generator v3.0.6
+[Gmsh](http://gmsh.info/) mesh generator v4.3.0
 -----------------------------------------------
 
 Gmsh is an automatic three-dimensional finite element mesh generator
@@ -17,6 +17,8 @@ with built-in pre and post-processing facilities.
 
 Binary copies from the [download page](http://gmsh.info/bin/) at the
 official Gmsh repository.
+
+(FEATool Multipysics v1.10 or earlier only supports Gmsh v3.0.6)
 
 
 [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) mesh generator v1.6
